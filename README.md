@@ -1,6 +1,6 @@
 
 ## setup
-`npm install -g ava yarn`
+`npm install -g ava yarn`  
 `yarn `
 
 ## test
