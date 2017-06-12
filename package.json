@@ -1,0 +1,27 @@
+{
+  "name": "kickstarter",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "ava": {
+    "files": [
+      "tests/**/*.js"
+    ],
+    "source": [
+      "app/scripts/**/*.{js,jsx}",
+      "!dist/**/*"
+    ],
+    "require": [
+      "babel-register"
+    ],
+    "babel": "inherit"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,251 @@
+ 
+ - [2K[1A[2K[0G 
+ \ [2K[1A[2K[0G 
+ | [2K[1A[2K[0G 
+ / [2K[1A[2K[0G 
+ - [2K[1A[2K[0G 
+ \ [2K[1A[2K[0G 
+ | [2K[1A[2K[0G 
+ / [2K[1A[2K[0G 
+ - [2K[1A[2K[0G 
+ \ [2K[1A[2K[0G 
+ | [2K[1A[2K[0G 
+ / [2K[1A[2K[0G 
+ - [2K[1A[2K[0G 
+ \ [2K[1A[2K[0G 
+ | [2K[1A[2K[0G 
+ / [2K[1A[2K[0G 
+ - [2K[1A[2K[0G 
+ \ [2K[1A[2K[0G 
+ | [2K[1A[2K[0G 
+ / [2K[1A[2K[0G 
+ - [2K[1A[2K[0G 
+ \ [2K[1A[2K[0G 
+ | [2K[1A[2K[0G 
+ / [2K[1A[2K[0G 
+ - [2K[1A[2K[0G 
+ \ [2K[1A[2K[0G 
+ | [2K[1A[2K[0G 
+ / [2K[1A[2K[0G 
+ - [2K[1A[2K[0G 
+ \ [2K[1A[2K[0G 
+ | [2K[1A[2K[0G 
+ / [2K[1A[2K[0G 
+ - [2K[1A[2K[0G 
+ \ [2K[1A[2K[0G 
+ | [2K[1A[2K[0G 
+ / [2K[1A[2K[0G 
+ - [2K[1A[2K[0G 
+ \ [2K[1A[2K[0G 
+ | [2K[1A[2K[0G 
+ / [2K[1A[2K[0G 
+ - [2K[1A[2K[0G---------------------
+ 
+ - [2K[1A[2K[0GDeliverInfo {
+  Qty: 60,
+  Item: 'candy#14',
+  MaxFill: 26,
+  SoldTo: 'Joe',
+  DeliverNumber: 1,
+  Remain: 60 }
+ 
+ - [2K[1A[2K[0G**PLUS**:26:remainValue:34
+ 
+ - [2K[1A[2K[0G**PLUS**:26:remainValue:8
+ 
+ - [2K[1A[2K[0G**MINUS**:8
+---------------------
+ 
+ - [2K[1A[2K[0GDeliverInfo {
+  Qty: 55,
+  Item: 'candy#14',
+  MaxFill: 26,
+  SoldTo: 'Qin',
+  DeliverNumber: 10,
+  Remain: 55 }
+ 
+ - [2K[1A[2K[0G**PLUS**:18:remainValue:37
+**PLUS**:26:remainValue:11
+**MINUS**:11
+---------------------
+ 
+ - [2K[1A[2K[0GDeliverInfo {
+  Qty: 30,
+  Item: 'candy#14',
+  MaxFill: 26,
+  SoldTo: 'Yo',
+  DeliverNumber: 11,
+  Remain: 30 }
+**PLUS**:15:remainValue:15
+**MINUS**:15
+ 
+ - [2K[1A[2K[0G---------------------
+DeliverInfo {
+  Qty: 40,
+  Item: 'candy#14',
+  MaxFill: 26,
+  SoldTo: 'Moe',
+  DeliverNumber: 12,
+  Remain: 40 }
+**PLUS**:11:remainValue:29
+ 
+ - [2K[1A[2K[0G**PLUS**:26:remainValue:3
+**MINUS**:3
+[
+  {
+    "Qty": 26,
+    "DeliverInfoList": [
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 1,
+        "Count": 26
+      }
+    ],
+    "Item": "candy#14",
+    "MaxFill": 26
+  },
+  {
+    "Qty": 26,
+    "DeliverInfoList": [
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 1,
+        "Count": 26
+      }
+    ],
+    "Item": "candy#14",
+    "MaxFill": 26
+  },
+  {
+    "Qty": 26,
+    "DeliverInfoList": [
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 1,
+        "Count": 8
+      },
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 10,
+        "Count": 18
+      }
+    ],
+    "Item": "candy#14",
+    "MaxFill": 26
+  },
+  {
+    "Qty": 26,
+    "DeliverInfoList": [
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 10,
+        "Count": 26
+      }
+    ],
+    "Item": "candy#14",
+    "MaxFill": 26
+  },
+  {
+    "Qty": 26,
+    "DeliverInfoList": [
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 10,
+        "Count": 11
+      },
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 11,
+        "Count": 15
+      }
+    ],
+    "Item": "candy#14",
+    "MaxFill": 26
+  },
+  {
+    "Qty": 26,
+    "DeliverInfoList": [
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 11,
+        "Count": 15
+      },
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 12,
+        "Count": 11
+      }
+    ],
+    "Item": "candy#14",
+    "MaxFill": 26
+  },
+  {
+    "Qty": 26,
+    "DeliverInfoList": [
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 12,
+        "Count": 26
+      }
+    ],
+    "Item": "candy#14",
+    "MaxFill": 26
+  },
+  {
+    "Qty": 3,
+    "DeliverInfoList": [
+      {
+        "Item": "candy#14",
+        "DeliverNumber": 12,
+        "Count": 3
+      }
+    ],
+    "Item": "candy#14",
+    "MaxFill": 26
+  }
+]
+ 
+ - [2K[1A[2K[0G 
+ - 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ \ 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ | 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ / 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ - 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ \ 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ | 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ / 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ - 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ \ 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ | 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ / 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G 
+ - 4 item to 8 package
+
+  1 passed[2K[1A[2K[1A[2K[1A[2K[0G
+  1 passed
+
+  The .only() modifier is used in some tests. 4 tests were not run
+
